@@ -1,0 +1,6 @@
+C:\Users\Technologist\Documents\GitHub\DigitalRoot\wk3\wk3\bin\Debug\wk3.exe.config
+C:\Users\Technologist\Documents\GitHub\DigitalRoot\wk3\wk3\obj\Debug\wk3.csprojResolveAssemblyReference.cache
+C:\Users\Technologist\Documents\GitHub\DigitalRoot\wk3\wk3\bin\Debug\wk3.exe
+C:\Users\Technologist\Documents\GitHub\DigitalRoot\wk3\wk3\bin\Debug\wk3.pdb
+C:\Users\Technologist\Documents\GitHub\DigitalRoot\wk3\wk3\obj\Debug\wk3.exe
+C:\Users\Technologist\Documents\GitHub\DigitalRoot\wk3\wk3\obj\Debug\wk3.pdb
